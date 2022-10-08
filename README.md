@@ -1,11 +1,8 @@
 # Resume_Classification_NLP
-# Business Problem:The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention.
-# Objective:- The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention.
-
-![image](https://user-images.githubusercontent.com/100017445/194705061-d3183e4d-371e-4629-bb53-023b67851055.png)
-
-![image](https://user-images.githubusercontent.com/100017445/194705035-e8cd7eb4-89b1-4801-9cec-c94986dc042a.png)
-
+# Business Problem:
+The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention.
+# Objective:- 
+The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention.
 
 # pyresparser
 

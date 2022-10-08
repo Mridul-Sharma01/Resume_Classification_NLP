@@ -1,6 +1,7 @@
 # Resume_Classification_NLP
 # Business Problem:
-The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention.
+The main business problem to outcomes is to classify the resumes based on some categories, so it could reduce the human efforts to categories with good accuracy with the help of NLP.
+
 # Objective:- 
 The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention.
 
